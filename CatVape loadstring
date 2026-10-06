@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://api.catvape.dev/script'))()
+
+--Use this if its not loading
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MaxlaserTech/CatV6/main/reinstall.lua'))()
